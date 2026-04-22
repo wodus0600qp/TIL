@@ -1,4 +1,4 @@
-# CSS
+    # CSS
 ---
 ## CSS란
 CSS (Cascading Style Sheets)는 웹페이지의 색상, 글꼴, 배경, 레이아웃 등을 꾸미는 스타일 언어
