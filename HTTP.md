@@ -24,7 +24,7 @@ HTTPS는 HTTP+암호화로 데이터를 암호화해서 전송
 
 ## REQUEST/RESPONSE
 
-### REQUSET
+### REQUEST
 
 사용자가 서버에게 요청하는것
 
@@ -58,7 +58,7 @@ HTTPS는 HTTP+암호화로 데이터를 암호화해서 전송
 
 ## HTTPMETHOD
 
-### GHT
+### GET
 
 -데이터 조회
 
